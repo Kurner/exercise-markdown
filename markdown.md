@@ -2,5 +2,5 @@
 ## Amoryne Philippe
 ## Nicolas Matthias
 
-[Mylink] (https://gather.town/app/NLegHZnRuDac4H27/Keller-4)
-[Mylink] (https://www.tomates-de-france.com/les-tomates/les-bienfaits-de-la-tomate/)
+[Mylink](https://www.cuisineaz.com/diaporamas/legumes-detestes-en-france-1264/interne/1.aspx"Top 10 des légumes")
+[Mylink](https://www.tomates-de-france.com/les-tomates/les-bienfaits-de-la-tomate/"Pourquoi manger des tomates")
