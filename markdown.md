@@ -1,8 +1,8 @@
-<script type="text/javascript" >
+``<script type="text/javascript" >
     window.alert("L'exercice de Markdown est fait !");
     alert("L'exercice de Markdown est fait !");
-    </script>
+    </script>``
 
-![WeDidItGuys!](https://giphy.com/gifs/cute-aww-eyebleach-3ndAvMC5LFPNMCzq7m)
+![WeDidItGuys!](https://i.imgur.com/ASw6X8V.gifv)
 
 [README!](README.md)
