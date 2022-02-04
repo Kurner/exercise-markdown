@@ -3,6 +3,6 @@
     alert("L'exercice de Markdown est fait !");
     </script>``
 
-![](https://imgur.com/ASw6X8V)
+![](doggy.mp4)
 
 [README!](README.md)
